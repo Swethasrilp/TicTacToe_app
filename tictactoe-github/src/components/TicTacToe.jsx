@@ -1,7 +1,6 @@
     import React from 'react'
-    import './TicTacToe.css'
-    import o_image from '../assets/o_image.png'
-    import x_image from '../assets/x_image.png'
+    import o_image from '../components/assets/o_image.png'
+    import x_image from '../components/assets/x_image.png'
     import { useState ,useRef} from 'react'
     let data=["","","","","","","","",""];
     
